@@ -43,5 +43,16 @@
     "webpack": "^5.61.0",
     "webpack-cli": "^4.9.1",
     "webpack-dev-server": "^4.4.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanganboada/alexspuzzle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanganboada/alexspuzzle/issues"
+  },
+  "homepage": "https://github.com/yanganboada/alexspuzzle#readme"
 }
